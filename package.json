@@ -1,6 +1,6 @@
 {
   "name": "vue-simple-table",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "Simple table component for VueJS",
   "main": "dist/simple-vue-table.js",
   "scripts": {
@@ -24,5 +24,8 @@
     "vue-loader": "^11.1.4",
     "vue-style-loader": "^2.0.3",
     "vue-template-compiler": "^2.2.1"
+  },
+  "dependencies": {
+    "css-loader": "^0.28.7"
   }
 }
